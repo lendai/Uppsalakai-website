@@ -18,23 +18,23 @@
         </dl>
    </li>
    <li>
-        <img src="img/styrelse/kalle.jpg">
+        <img src="img/styrelse/emma.jpg">
         <dl>
-            <dt>Karl Blomster</dt>
+            <dt>Emma Sund</dt>
             <dd>Kassör</dd>
+        </dl>
+   </li>
+   <li>
+        <img src="img/styrelse/emil.jpg">
+        <dl>
+            <dt>Hampus Andersson</dt>
+            <dd>Sekreterare</dd>
         </dl>
    </li>
    <li>
         <img src="img/styrelse/robban.jpg">
         <dl>
             <dt>Robert Karl Levelind</dt>
-            <dd>Sekreterare</dd>
-        </dl>
-   </li>
-   <li>
-        <img src="img/styrelse/klas.jpg">
-        <dl>
-            <dt>Daniel Emilsson</dt>
             <dd>Ledamot</dd>
         </dl>
    </li>
@@ -57,6 +57,21 @@
         <dl>
             <dt>Emil Oldenburg</dt>
             <dd>Ledamot</dd>
+        </dl>
+   </li>
+   
+   <li>
+        <img src="img/styrelse/karolina.jpg">
+        <dl>
+            <dt>Karolina Kusnierz</dt>
+            <dd>Revisor<br>karolina@uppcon.se</dd>
+        </dl>
+   </li>
+   <li>
+        <img src="img/styrelse/emil.jpg">
+        <dl>
+            <dt>Fredrik Gelotte</dt>
+            <dd>Revisor<br>fredrik@uppcon.se</dd>
         </dl>
    </li>
 <ul>
