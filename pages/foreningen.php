@@ -25,7 +25,7 @@
         </dl>
    </li>
    <li>
-        <img src="img/styrelse/emil.jpg">
+        <img src="img/styrelse/hampus.jpg">
         <dl>
             <dt>Hampus Andersson</dt>
             <dd>Sekreterare</dd>
@@ -68,7 +68,7 @@
         </dl>
    </li>
    <li>
-        <img src="img/styrelse/emil.jpg">
+        <img src="img/styrelse/fredrik.jpg">
         <dl>
             <dt>Fredrik Gelotte</dt>
             <dd>Revisor<br>fredrik@uppcon.se</dd>
