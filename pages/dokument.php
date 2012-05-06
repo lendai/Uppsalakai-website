@@ -3,7 +3,7 @@
 
 <div id="documents" class="clearfix">
     <div class="document odd">
-        <a href="https://docs.google.com/document/d/1Zp3MigKCN5socvBCizaDZAphbBFAYYBsHERNGZh92W8/edit" target="_blank">Årsmötesprotokoll 2012 inklusive bilagor</a>
+        <a href="https://docs.google.com/document/d/1Zp3MigKCN5socvBCizaDZAphbBFAYYBsHERNGZh92W8/edit" target="_blank">Årsmötesprotokoll 2012 inklusive bilagor. <img src="/img/download.png"></a>
     <div>
 <?php
 $i=2;
